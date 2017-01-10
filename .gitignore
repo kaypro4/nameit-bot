@@ -1,0 +1,4 @@
+.env
+db_slackbutton_bot
+.DS_Store
+.bashrc
